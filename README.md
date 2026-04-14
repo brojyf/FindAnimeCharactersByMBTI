@@ -1,4 +1,4 @@
-# Find Anime Characters March Your MBTI
+# Find Anime Characters Match Your MBTI
 
 We create a website that can help you to find anime chatacters that share the same MBTI with you, which can help you to find anime to watch
 or have a better understanding of yourself through knowing the anime characters that shares the same MBTI with you.
